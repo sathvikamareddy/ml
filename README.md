@@ -69,7 +69,9 @@ Decision regions are plotted to visualize classification boundaries.
 
 ## Project Structure
 
-```text
+
 placement_prediction.py
 new_placement_dataset.csv
 README.md
+---
+
